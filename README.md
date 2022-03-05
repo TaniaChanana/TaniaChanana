@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a target="_blank" href="https://tania-chanana.netlify.app">Tania Chanana</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h1 align="center">I am a BackEnd Developer</h1>
 
-- 👨‍🎓I am Tania, currently embarking on my engineering journey from Droncharya College of Engineering, Gurgaon<br/>
+- 👨‍🎓I am Tania, currently embarking on my engineering journey from Dronacharya College of Engineering, Gurgaon<br/>
 - 💻I am a **Backend developer**<br/>
 - 3⭐ coder on **CodeChef**<br/>
 - I love❤ to make **exciting projects**. <br/>
